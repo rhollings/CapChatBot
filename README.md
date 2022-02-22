@@ -2,6 +2,8 @@
 
 This is a Chatbot that I coded to use Captain America lines. I've done this by taking dialogue from MCU movies and generating a csv file that parses all the lines. I then trained a model to focus specifically on every time Cap speaks in Google CoLab. Next, I uploaded the file to HuggingFace, pairing it with a script ran w/ Replit (which allows the bot to run 24/7). The bot was then uploaded to Discord. 
 
+Dialogues can also be found on <a href="https://www.kaggle.com/" target="_blank">Kaggle</a>
+
 The code is my uploaded from my <a href="https://huggingface.co/rhollings/DialoGPT_small_steverogers">huggingface</a> repo.   
 Fell free to chat with the model on HuggingFace by clicking the link above.
 
