@@ -4,7 +4,7 @@ This is a Chatbot that I coded to use Captain America lines. I've done this by t
 
 Dialogues can also be found on <a href="https://www.kaggle.com/" target="_blank">Kaggle</a>
 
-The live code uploaded to my <a href="https://huggingface.co/rhollings/DialoGPT_small_steverogers">huggingface</a> repo.   
+The live code uploaded to my <a href="https://huggingface.co/rhollings/DialoGPT_small_steverogers" target="_blank">huggingface</a> repo.   
 Fell free to chat with the model on HuggingFace by clicking the link above.
 
 <!-- 
